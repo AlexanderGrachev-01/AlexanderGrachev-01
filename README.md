@@ -2,6 +2,15 @@
 
 ## I'm beginner Software Engineer
 
-Languages and Tools
+### Languages and Tools
+![Xcode](https://img.shields.io/badge/-Xcode-090909?style=for-the-badge&logo=xcode)
+![Clion](https://img.shields.io/badge/-Clion-090909?style=for-the-badge&logo=CLion)
+![MatLab](https://img.shields.io/badge/-MatLab-090909?style=for-the-badge&logo=MatLab)
+![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift)
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
+
+
 
 Follow me
