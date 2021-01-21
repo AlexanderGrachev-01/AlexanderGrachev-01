@@ -4,11 +4,11 @@
 
 ### Languages and Tools
 ![Xcode](https://img.shields.io/badge/-Xcode-090909?style=for-the-badge&logo=xcode)
-![MatLab](https://img.shields.io/badge/-MatLab-090909?style=for-the-badge&logo=MATLAB)
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
+![MatLab](https://img.shields.io/badge/-MatLab-090909?style=for-the-badge&logo=MATLAB)
 
 
 ### Follow me
