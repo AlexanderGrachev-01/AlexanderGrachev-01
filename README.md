@@ -1,6 +1,4 @@
-[![Header]](https://www.instagram.com/s.a.n.c.h.o.u.ss/)
-
-## I'm beginner Software Engineer
+## I'm beginner IOS developer
 
 ### Languages and Tools
 ![Xcode](https://img.shields.io/badge/-Xcode-090909?style=for-the-badge&logo=xcode)
