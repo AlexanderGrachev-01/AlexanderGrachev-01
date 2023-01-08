@@ -1,4 +1,4 @@
-## I'm beginner IOS developer
+## I'm IOS developer
 
 ### Languages and Tools
 ![Xcode](https://img.shields.io/badge/-Xcode-090909?style=for-the-badge&logo=xcode)
